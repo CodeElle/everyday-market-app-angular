@@ -116,5 +116,5 @@ MIT — feel free to use, modify, and share.
 
 ## ✨ Author
 
-Built with ❤️ by Laiza  
+Built by Laiza  
 Focused on clarity, accessibility, and empowering learners through clean code.
