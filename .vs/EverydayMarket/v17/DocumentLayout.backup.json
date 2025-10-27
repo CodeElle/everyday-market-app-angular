@@ -1,0 +1,840 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laiza\\EverydayMarket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\model\\product-media.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\model\\product-media.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\model\\new-product.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\model\\new-product.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-edit-page\\product-edit-page.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\product-edit-page\\product-edit-page.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-view-page\\product-view-page.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\product-view-page\\product-view-page.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\core\\services\\categories.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\core\\services\\categories.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\model\\category.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\model\\category.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\products-page\\products-page.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\products-page\\products-page.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-list\\product-list.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\product-list\\product-list.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-details\\product-details.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\product-details\\product-details.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\category-menu-item\\category-menu-item.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\category-menu-item\\category-menu-item.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\category-menu\\category-menu.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\category-menu\\category-menu.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\core\\core-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\core\\core-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\core\\services\\products.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\core\\services\\products.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-form\\product-form.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\product-form\\product-form.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-form\\product-form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\product-form\\product-form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-edit-page\\product-edit-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\product-edit-page\\product-edit-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-view-page\\product-view-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\product-view-page\\product-view-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\shared\\plus-button\\plus-button.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\shared\\plus-button\\plus-button.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\market-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\market-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\products-page\\products-page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\products-page\\products-page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\products-page\\products-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\products-page\\products-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\shared\\plus-button\\plus-button.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\shared\\plus-button\\plus-button.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-form\\product-form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\product-form\\product-form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\model\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\model\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\shared\\shared-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\shared\\shared-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-edit-page\\product-edit-page.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\product-edit-page\\product-edit-page.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\shared\\plus-button\\plus-button.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\shared\\plus-button\\plus-button.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\tsconfig.spec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.spec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-card\\product-card.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\product-card\\product-card.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\model\\product.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\model\\product.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-card\\product-card.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\product-card\\product-card.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-details\\product-details.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\product-details\\product-details.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\app-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\environments\\environment.prod.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\environments\\environment.prod.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\shared\\busy\\busy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\shared\\busy\\busy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\category-menu-item\\category-menu-item.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\modules\\market\\category-menu-item\\category-menu-item.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laiza\\EverydayMarket\\src\\app\\app-routing-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app-routing-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "product-edit-page.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-edit-page\\product-edit-page.ts",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\product-edit-page\\product-edit-page.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-edit-page\\product-edit-page.ts",
+              "RelativeToolTip": "src\\app\\modules\\market\\product-edit-page\\product-edit-page.ts",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T06:32:08.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "new-product.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\model\\new-product.ts",
+              "RelativeDocumentMoniker": "src\\app\\model\\new-product.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\model\\new-product.ts",
+              "RelativeToolTip": "src\\app\\model\\new-product.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T07:28:38.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "product-media.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\model\\product-media.ts",
+              "RelativeDocumentMoniker": "src\\app\\model\\product-media.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\model\\product-media.ts",
+              "RelativeToolTip": "src\\app\\model\\product-media.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T03:46:38.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "product-view-page.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-view-page\\product-view-page.ts",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\product-view-page\\product-view-page.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-view-page\\product-view-page.ts",
+              "RelativeToolTip": "src\\app\\modules\\market\\product-view-page\\product-view-page.ts",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T03:31:54.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\angular.json",
+              "RelativeDocumentMoniker": "angular.json",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\angular.json",
+              "RelativeToolTip": "angular.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T06:07:31.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "categories.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\core\\services\\categories.ts",
+              "RelativeDocumentMoniker": "src\\app\\modules\\core\\services\\categories.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\core\\services\\categories.ts",
+              "RelativeToolTip": "src\\app\\modules\\core\\services\\categories.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T03:38:49.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "category.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\model\\category.ts",
+              "RelativeDocumentMoniker": "src\\app\\model\\category.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\model\\category.ts",
+              "RelativeToolTip": "src\\app\\model\\category.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T08:49:53.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "products-page.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\products-page\\products-page.ts",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\products-page\\products-page.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\products-page\\products-page.ts",
+              "RelativeToolTip": "src\\app\\modules\\market\\products-page\\products-page.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T03:45:53.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "product-list.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-list\\product-list.ts",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\product-list\\product-list.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-list\\product-list.ts",
+              "RelativeToolTip": "src\\app\\modules\\market\\product-list\\product-list.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T09:09:29.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "product-details.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-details\\product-details.ts",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\product-details\\product-details.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-details\\product-details.ts",
+              "RelativeToolTip": "src\\app\\modules\\market\\product-details\\product-details.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T05:02:56.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "category-menu-item.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\category-menu-item\\category-menu-item.ts",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\category-menu-item\\category-menu-item.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\category-menu-item\\category-menu-item.ts",
+              "RelativeToolTip": "src\\app\\modules\\market\\category-menu-item\\category-menu-item.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T03:51:57.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "category-menu.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\category-menu\\category-menu.ts",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\category-menu\\category-menu.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\category-menu\\category-menu.ts",
+              "RelativeToolTip": "src\\app\\modules\\market\\category-menu\\category-menu.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T09:08:56.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "core-module.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\core\\core-module.ts",
+              "RelativeDocumentMoniker": "src\\app\\modules\\core\\core-module.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\core\\core-module.ts",
+              "RelativeToolTip": "src\\app\\modules\\core\\core-module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T09:08:49.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "products.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\core\\services\\products.ts",
+              "RelativeDocumentMoniker": "src\\app\\modules\\core\\services\\products.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\core\\services\\products.ts",
+              "RelativeToolTip": "src\\app\\modules\\core\\services\\products.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T03:46:56.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "product-form.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-form\\product-form.ts",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\product-form\\product-form.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-form\\product-form.ts",
+              "RelativeToolTip": "src\\app\\modules\\market\\product-form\\product-form.ts",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T06:30:04.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "product-form.html",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-form\\product-form.html",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\product-form\\product-form.html",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-form\\product-form.html",
+              "RelativeToolTip": "src\\app\\modules\\market\\product-form\\product-form.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-27T06:29:37.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "product-edit-page.html",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-edit-page\\product-edit-page.html",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\product-edit-page\\product-edit-page.html",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-edit-page\\product-edit-page.html",
+              "RelativeToolTip": "src\\app\\modules\\market\\product-edit-page\\product-edit-page.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-27T06:31:51.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "product-view-page.html",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-view-page\\product-view-page.html",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\product-view-page\\product-view-page.html",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-view-page\\product-view-page.html",
+              "RelativeToolTip": "src\\app\\modules\\market\\product-view-page\\product-view-page.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-27T05:12:14.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "plus-button.html",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\shared\\plus-button\\plus-button.html",
+              "RelativeDocumentMoniker": "src\\app\\modules\\shared\\plus-button\\plus-button.html",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\shared\\plus-button\\plus-button.html",
+              "RelativeToolTip": "src\\app\\modules\\shared\\plus-button\\plus-button.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-27T06:25:09.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "market-module.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\market-module.ts",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\market-module.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\market-module.ts",
+              "RelativeToolTip": "src\\app\\modules\\market\\market-module.ts",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvw4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T03:55:04.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "products-page.css",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\products-page\\products-page.css",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\products-page\\products-page.css",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\products-page\\products-page.css",
+              "RelativeToolTip": "src\\app\\modules\\market\\products-page\\products-page.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-27T06:19:20.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "products-page.html",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\products-page\\products-page.html",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\products-page\\products-page.html",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\products-page\\products-page.html",
+              "RelativeToolTip": "src\\app\\modules\\market\\products-page\\products-page.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-27T06:19:59.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "plus-button.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\shared\\plus-button\\plus-button.ts",
+              "RelativeDocumentMoniker": "src\\app\\modules\\shared\\plus-button\\plus-button.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\shared\\plus-button\\plus-button.ts",
+              "RelativeToolTip": "src\\app\\modules\\shared\\plus-button\\plus-button.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T08:35:52.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "product-form.css",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-form\\product-form.css",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\product-form\\product-form.css",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-form\\product-form.css",
+              "RelativeToolTip": "src\\app\\modules\\market\\product-form\\product-form.css",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-27T06:29:53.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\model\\index.ts",
+              "RelativeDocumentMoniker": "src\\app\\model\\index.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\model\\index.ts",
+              "RelativeToolTip": "src\\app\\model\\index.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T06:12:17.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "shared-module.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\shared\\shared-module.ts",
+              "RelativeDocumentMoniker": "src\\app\\modules\\shared\\shared-module.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\shared\\shared-module.ts",
+              "RelativeToolTip": "src\\app\\modules\\shared\\shared-module.ts",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T03:53:09.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "product-edit-page.spec.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-edit-page\\product-edit-page.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\product-edit-page\\product-edit-page.spec.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-edit-page\\product-edit-page.spec.ts",
+              "RelativeToolTip": "src\\app\\modules\\market\\product-edit-page\\product-edit-page.spec.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T06:44:34.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "plus-button.css",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\shared\\plus-button\\plus-button.css",
+              "RelativeDocumentMoniker": "src\\app\\modules\\shared\\plus-button\\plus-button.css",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\shared\\plus-button\\plus-button.css",
+              "RelativeToolTip": "src\\app\\modules\\shared\\plus-button\\plus-button.css",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-27T06:25:29.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "app.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\app.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\app.ts",
+              "RelativeToolTip": "src\\app\\app.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T06:11:39.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\main.ts",
+              "RelativeDocumentMoniker": "src\\main.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\main.ts",
+              "RelativeToolTip": "src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T06:10:01.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "tsconfig.app.json",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\tsconfig.app.json",
+              "RelativeDocumentMoniker": "tsconfig.app.json",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\tsconfig.app.json",
+              "RelativeToolTip": "tsconfig.app.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T06:08:36.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "tsconfig.spec.json",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\tsconfig.spec.json",
+              "RelativeDocumentMoniker": "tsconfig.spec.json",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\tsconfig.spec.json",
+              "RelativeToolTip": "tsconfig.spec.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T06:08:30.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T06:08:14.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T06:07:55.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T06:07:47.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "product-card.html",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-card\\product-card.html",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\product-card\\product-card.html",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-card\\product-card.html",
+              "RelativeToolTip": "src\\app\\modules\\market\\product-card\\product-card.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-27T05:12:43.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "product.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\model\\product.ts",
+              "RelativeDocumentMoniker": "src\\app\\model\\product.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\model\\product.ts",
+              "RelativeToolTip": "src\\app\\model\\product.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T03:46:45.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "environment.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\environments\\environment.ts",
+              "RelativeDocumentMoniker": "src\\environments\\environment.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\environments\\environment.ts",
+              "RelativeToolTip": "src\\environments\\environment.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T03:56:01.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "product-card.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-card\\product-card.ts",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\product-card\\product-card.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-card\\product-card.ts",
+              "RelativeToolTip": "src\\app\\modules\\market\\product-card\\product-card.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T03:30:51.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "product-details.html",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-details\\product-details.html",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\product-details\\product-details.html",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\product-details\\product-details.html",
+              "RelativeToolTip": "src\\app\\modules\\market\\product-details\\product-details.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-27T03:31:23.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "app.html",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\app.html",
+              "RelativeDocumentMoniker": "src\\app\\app.html",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\app.html",
+              "RelativeToolTip": "src\\app\\app.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-27T04:09:31.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "app-module.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\app-module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app-module.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\app-module.ts",
+              "RelativeToolTip": "src\\app\\app-module.ts",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T03:27:11.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "environment.prod.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\environments\\environment.prod.ts",
+              "RelativeDocumentMoniker": "src\\environments\\environment.prod.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\environments\\environment.prod.ts",
+              "RelativeToolTip": "src\\environments\\environment.prod.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T03:56:26.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "busy.css",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\shared\\busy\\busy.css",
+              "RelativeDocumentMoniker": "src\\app\\modules\\shared\\busy\\busy.css",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\shared\\busy\\busy.css",
+              "RelativeToolTip": "src\\app\\modules\\shared\\busy\\busy.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-27T03:53:02.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "category-menu-item.html",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\category-menu-item\\category-menu-item.html",
+              "RelativeDocumentMoniker": "src\\app\\modules\\market\\category-menu-item\\category-menu-item.html",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\modules\\market\\category-menu-item\\category-menu-item.html",
+              "RelativeToolTip": "src\\app\\modules\\market\\category-menu-item\\category-menu-item.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-27T03:52:21.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "app-routing-module.ts",
+              "DocumentMoniker": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\app-routing-module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app-routing-module.ts",
+              "ToolTip": "C:\\Users\\laiza\\EverydayMarket\\src\\app\\app-routing-module.ts",
+              "RelativeToolTip": "src\\app\\app-routing-module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-27T03:27:01.322Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

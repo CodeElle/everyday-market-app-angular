@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\modules",
+    "\\src\\app\\modules\\market",
+    "\\src\\app\\modules\\market\\category-menu",
+    "\\src\\app\\modules\\market\\category-menu-item",
+    "\\src\\app\\modules\\market\\product-details",
+    "\\src\\app\\modules\\market\\product-list",
+    "\\src\\app\\modules\\market\\products-page"
+  ],
+  "SelectedNode": "\\src\\app\\model\\product-media.ts",
+  "PreviewInSolutionExplorer": false
+}
